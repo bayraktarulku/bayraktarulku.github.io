@@ -8,8 +8,14 @@ Python öğrenmek isterseniz; burayı takipte kalabilir ve diğer GitHub depolar
 
 Eğer herhangi bir sorunuz veya öneriniz varsa, benimle [iletişime geçebilirsiniz](mailto:ulkubayraktar@gmail.com).
 
+
 ## Seviyeler
 
 - [Başlangıç Seviyesi](baslangic.md)
 - [Orta Seviye](orta.md)
 - [İleri Seviye](ileri.md)
+
+
+Ayrıca, benimle daha fazla etkileşimde bulunmak isterseniz, LinkedIn profilime buradan erişebilirsiniz: [LinkedIn](https://www.linkedin.com/in/%C3%BClk%C3%BC-bayraktar-61648267/)
+
+[CV'm](ulkubayraktar-cv.md) için bu linke tıklayabilirsiniz
