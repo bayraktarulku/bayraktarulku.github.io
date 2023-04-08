@@ -4,7 +4,7 @@ Bu sayfada Python programlama diline yeni başlayanlar için başlangıç seviye
 
 ## Konular
 
-- [Python ve Çalışma Ortamı Kurulumu](#python-ve-çalışma-ortamı-kurulumu.md) (Linux)
+- [Python ve Çalışma Ortamı Kurulumu](#python-ve-calisma-ortami-kurulumu.md) (Linux)
     - Python yükleme
     - Çalışma ortamı hazırlama
     
